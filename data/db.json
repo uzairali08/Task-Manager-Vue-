@@ -1,0 +1,119 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Uzair Ali",
+      "email": "uzair7508@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "name": "Mad Max",
+      "email": "madm40056@gmail.com",
+      "password": "123"
+    },
+    {
+      "name": "Hammad Ul Hassan",
+      "email": "hammad123@gmail.com",
+      "password": "123",
+      "id": 748069
+    },
+    {
+      "name": "Nouman Khateeb",
+      "email": "noumankhateeb419@gmail.com",
+      "password": "123",
+      "id": 120552
+    },
+    {
+      "name": "Sami",
+      "email": "sami@iversion.com.au",
+      "password": "123",
+      "id": 441609
+    },
+    {
+      "name": "Roshaan Intisar",
+      "email": "roshaan01@gmail.com",
+      "password": "123",
+      "id": 479361
+    },
+    {
+      "name": "Ahtizaz khan ",
+      "email": "ahtizaz645@gmail.com",
+      "password": "12345",
+      "id": 299382
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Develop the project",
+      "description": "Develop the project description",
+      "startdate": "2023-07-18T17:40",
+      "deadline": "2023-07-28T10:40",
+      "assigned_user": "Mad Max",
+      "status": "Not Started",
+      "assign_by": "Uzair Ali",
+      "id": 2
+    },
+    {
+      "title": "Apply Changes",
+      "description": "Apply Changes",
+      "status": "Completed",
+      "deadline": "7/30/2023",
+      "assigned_user": "Uzair Ali",
+      "assign_by": "Mad Max",
+      "id": 3,
+      "last_updated": "2023-07-31T06:07:19.207Z"
+    },
+    {
+      "title": "Design a banner",
+      "description": "Banner Description",
+      "startdate": "2023-07-19T11:00",
+      "deadline": "2023-07-21T15:00",
+      "assigned_user": "Uzair Ali",
+      "assign_by": "Hammad Ul Hassan",
+      "status": "Completed",
+      "id": 1763,
+      "last_updated": "2023-07-27T08:00:47.891Z"
+    },
+    {
+      "title": "Deploy the project",
+      "description": "Deployment Description",
+      "startdate": "2023-07-19T18:30",
+      "deadline": "2023-07-21T18:30",
+      "assigned_user": "Hammad Ul Hassan",
+      "assign_by": "Mad Max",
+      "status": "Not Started",
+      "id": 8396
+    },
+    {
+      "title": "Meeting the Client",
+      "description": "Meeting Description",
+      "startdate": "2023-07-19T12:00",
+      "deadline": "2023-07-19T13:30",
+      "assign_by": "Hammad Ul Hassan",
+      "assigned_user": "Mad Max",
+      "status": "Not Started",
+      "id": 7638
+    },
+    {
+      "title": "Design Portfolio",
+      "description": "Portfolio Description",
+      "startdate": "2023-07-28T13:00",
+      "deadline": "2023-08-17T13:00",
+      "assigned_user": "Nouman Khateeb",
+      "assign_by": "Uzair Ali",
+      "status": "Not Started",
+      "id": 2869
+    },
+    {
+      "title": "task1",
+      "description": "some data",
+      "startdate": "2023-07-31T13:27",
+      "deadline": "2023-07-31T15:27",
+      "assigned_user": "Nouman Khateeb",
+      "assign_by": "Ahtizaz khan ",
+      "status": "Not Started",
+      "id": 8337
+    }
+  ]
+}
